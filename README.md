@@ -1,0 +1,1 @@
+#### notes for this project :[ERC20](https://yukijuda111.github.io/note/blockchain/solidity/ERC-20/)
